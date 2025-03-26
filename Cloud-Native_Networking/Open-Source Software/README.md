@@ -1,0 +1,4 @@
+- **Istio:**  
+  - Enhances cloud-native environments by providing observability, security, and traffic control across microservices.
+- **Cilium:**  
+  - Leverages eBPF for providing high-performance secure networking, micro-segmentation, and load balancing in cloud-native settings.
